@@ -1,0 +1,108 @@
+/* Utility Classes */
+.display-1 { 
+  font-size: 40px; 
+}
+
+/* Header */
+#mainheader {
+  height: 100%;
+  padding-top: 0px;
+  padding-bottom: 100px;
+}
+
+#bodyheader {
+  height: 100%;
+  padding-top: 0px;
+}
+
+/* Navbar */
+#mainnavbar,
+#navbar {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+#mainnavbar .logo,
+#navbar .logo {
+  float: none;
+  padding-bottom: 20px;
+}
+
+#mainnavbar ul,
+#navbar ul {
+  float: none;
+}
+
+#mainnavbar ul {
+  padding-left: 20px;
+}
+
+#mainnavbar ul li a,
+#navbar ul li a {
+  padding: 10px;
+
+}
+
+/* Showcase */
+#showcase {
+  text-align: center;
+  padding-top: 50px;
+}
+
+#showcase h1 {
+  padding-left: 0px;
+  padding-top: 40px;
+}
+
+#showcase p {
+  padding-left: 0px;
+}
+
+/* About */
+#about {
+  height: 100%;
+}
+
+.about-left,
+.about-right {
+  float: none;
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+/* Services */
+#services {
+  height: 100%;
+}
+
+#services h2 {
+  padding-bottom: 30px;
+}
+
+.services-box {
+  float: none;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Contact */
+#contact {
+  height: 100%;
+  padding-top: 50px;
+}
+
+#contact h2 {
+  padding-bottom: 40px;
+}
+
+#contact form {
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+/* Footer */
+#mainfooter {
+  padding: 20px;
+  height: 100%;
+}
